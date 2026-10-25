@@ -1,5 +1,3 @@
-'use strict';
-
 export const PREP_TIME = {
   Еспресо: 1000,
   Капучино: 2000,
